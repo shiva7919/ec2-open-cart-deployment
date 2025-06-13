@@ -159,4 +159,4 @@ sudo systemctl restart httpd
 php -v
 ``` 
 
-![Image](https://github.com/user-attachments/assets/c0979ba5-d24c-4caa-bd89-1855cf3a849e)
+
