@@ -157,4 +157,6 @@ sudo yum clean metadata
 sudo yum install php php-mysqlnd php-fpm php-opcache php-gd php-xml php-mbstring -y
 sudo systemctl restart httpd
 php -v
-```
+``` 
+
+![Image](https://github.com/user-attachments/assets/c0979ba5-d24c-4caa-bd89-1855cf3a849e)
